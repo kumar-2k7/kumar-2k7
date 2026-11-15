@@ -27,7 +27,7 @@ I specialize in modernizing legacy ASP.NET / .NET Framework systems into modern 
 #### 📜 Certifications
 - **GitHub Copilot Certified** *(Valid to May 2028)*
 - **Microsoft Certified: Azure Fundamentals (AZ-900)**
-- **Professional Scrum Master™ I (PSM-I)**[cite: 12]
+- **Professional Scrum Master™ I (PSM-I)**
 - **MCTS: .NET Framework 4, Web Applications**
 
 ---
